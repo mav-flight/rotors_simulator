@@ -15,6 +15,7 @@
 
   <url type="website">https://github.com/mav-flight/rotors_simulator</url>
   <url type="bugtracker">https://github.com/mav-flight/rotors_simulator/issues</url>
+  <url type="repository">https://github.com/mav-flight/rotors_simulator</url>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

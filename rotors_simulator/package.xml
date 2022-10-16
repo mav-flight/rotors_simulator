@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>rotors_simulator</name>
+  <version>0.0.0</version>
+  <description>RotorS is a MAV gazebo simulator.</description>
+  <maintainer email="4303534+sguttikon@users.noreply.github.com">Suresh G</maintainer>
+  <license>Apache License 2.0</license>
+
+  <author>Fadri Furrer</author>
+  <author>Michael Burri</author>
+  <author>Mina Kamel</author>
+  <author>Janosch Nikolic</author>
+  <author>Markus Achtelik</author>
+
+  <url type="website">https://github.com/mav-flight/rotors_simulator</url>
+  <url type="bugtracker">https://github.com/mav-flight/rotors_simulator/issues</url>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
